@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../pythonProject-main/API_Wizards/src"
+		},
+		{
+			"path": "../pythonProject-main/API_Wizards/qr_codes"
+		},
+		{
+			"path": "../pythonProject-main/API_Wizards/postgres-data"
+		},
+		{
+			"path": "../pythonProject-main/API_Wizards/migrations"
+		},
+		{
+			"path": "../pythonProject-main/API_Wizards/docs"
+		},
+		{
+			"path": "../pythonProject-main/API_Wizards/.vscode"
+		}
+	],
+	"settings": {}
+}
